@@ -12,7 +12,7 @@
 
 | Day | Topic | Notes | Design Challenge |
 |-----|-------|-------|------------------|
-| 1 | Introduction to Python, Data Types, Conditional Statements, Loops, Restaurant Billing System | [Notes](DAY1 /DESIGNCHALLANGE.PY) | [design challangr ](/DAY1/DESIGNCHALLENGE.PY) |
+| 1 | Introduction to Python, Data Types, Conditional Statements, Loops, Restaurant Billing System | [Notes](DAY1 /DESIGNCHALLANGE.PY) | [design challangr ](/DAY1/DESIGNCHALLANGE.PY) |
 | 2 | | | |
 | 3 | | | |
 | 4 | | | |
