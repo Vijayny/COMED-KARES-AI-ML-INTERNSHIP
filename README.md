@@ -10,7 +10,7 @@
 
 </div>
 
-| Day | Topic | Notes | Design Challenge | Notebook |
+| Day | Topic | Notes | Design Challenge |  |
 |-----|-------|-------|------------------|
 | 1 | Introduction to Python, Data Types, Conditional Statements, Loops, Restaurant Billing System| [Notes](DAY1/notes.md)| [design challange](/DAY1/DESIGNCHALLANGE.PY)|
 | 2 |Funcations,tuples,list,dictinory   |  [Notes](DAY2/Notes.md) | [design challange ](/DAY2/DESIGNCHALLANGE.PY).|
