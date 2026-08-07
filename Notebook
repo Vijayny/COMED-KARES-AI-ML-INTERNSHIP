@@ -1,1 +1,93 @@
+pip install numpy pandas matplotlib
 
+prices = [10,20,30,40,50]
+colors =[]
+colors.append("Green")
+colors.append("Blue")
+colors.append("Red")
+print(colors)
+prices.append("sixty")
+print(prices)
+print(colors[0])
+print(colors[2])
+
+answer = 42
+is_it_thursday = True
+is_it_wednesday = False
+pi_approx = 3.1415
+my_name ="jacob"
+print(answer)
+print(pi_approx)
+print(is_it_thursday)
+
+empty_tuple =()
+one_tuple =("first")
+student=("vijay", "dhanu",89,"Lahari",5)
+print(student[1]+ "" + student[3])
+print(student)
+
+float1 = 4.5
+float2 = 5
+
+fib = [1,1,2,3,5,8]
+i = 0
+while (i<len(fib)):
+  print(fib[i])
+  i = i+1
+  print("lets try that again")
+  for i in range (0,len(fib)):
+  print(fib[i])
+  print("one more item:")
+  for e in fib :
+    print(e)
+
+fib = [1,1,2,3,5,8]
+i = 0
+while (i<len(fib)):
+  print(fib[i])
+  i = i+1
+ print("lets try that again")
+ for i in range (0,len(fib)):
+    print(fib[i])
+print("one more item:")
+for e in fib :
+    print(e)
+
+import numpy as np
+import pandas as pd
+
+# Student Names
+names = ["Vijay", "Rahul", "Sneha", "Priya", "Arjun"]
+
+# Generate random marks (5 students Ã— 3 subjects)
+# Python, AI, ML
+np.random.seed(1)
+marks = np.random.randint(60, 101, (5, 3))
+
+# Create DataFrame
+df = pd.DataFrame(marks, columns=["Python", "AI", "ML"])
+df.insert(0, "Name", names)
+
+# Calculate Average
+df["Average"] = df[["Python", "AI", "ML"]].mean(axis=1)
+
+# Result Column
+df["Result"] = np.where(df["Average"] >= 75, "Pass", "Fail")
+
+# Display Final DataFrame
+print("Final DataFrame:\n")
+print(df)
+
+# Find Topper
+topper = df.loc[df["Average"].idxmax()]
+
+print("\nTopper")
+print("Name :", topper["Name"])
+print("Average :", round(topper["Average"], 2))
+
+import matplotlib.pyplot as plt
+
+x = [1, 3, 4, 5, 6, 7, 8, 9, 11]
+y = [8, 8, 5, 5, 2, 5, 5, 8, 8]
+
+plt.plot(x, y)
