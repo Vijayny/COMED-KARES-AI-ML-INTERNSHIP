@@ -10,12 +10,12 @@
 
 </div>
 
-| Day | Topic | Notes | Design Challenge |
+| Day | Topic | Notes | Design Challenge | Notebook |
 |-----|-------|-------|------------------|
 | 1 | Introduction to Python, Data Types, Conditional Statements, Loops, Restaurant Billing System| [Notes](DAY1/notes.md)| [design challange](/DAY1/DESIGNCHALLANGE.PY)|
 | 2 |Funcations,tuples,list,dictinory   |  [Notes](DAY2/Notes.md) | [design challange ](/DAY2/DESIGNCHALLANGE.PY).|
 | |
-| 3 | Anaconda/ Jupyter Notebooks/ Google ColabNumpy and Pandas)  | [Notes](DAY3/Notes.md) | [design challange ](/DAY3/DESIGNCHALLANGE.PY) | || | |
+| 3 | Anaconda/ Jupyter Notebooks/ Google ColabNumpy and Pandas)  | [Notes](DAY3/Notes.md) | [design challange ](/DAY3/DESIGNCHALLANGE.PY) |   || | |
 | 4 | | | |
 | 5 | | | |
 | 6 | | | |
