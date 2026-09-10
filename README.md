@@ -6,39 +6,16 @@
 <img src="https://comedkares.org/uploads/2023/04/Comedkares-Logo-EPS.png" alt="COMEDKARES" height="80">&nbsp;&nbsp;&nbsp;
 <img src="https://www.rrce.org/rrce/wp-content/uploads/2024/06/rrce-clg-logo.png" alt="RRCE" height="80">
 
-# 30 Days Learning Plan
+</div>
+
+---
+
+## Internship Certificate
+
+<div align="center">
+
+<img src="certificate/ERA_Foundation_Certificate_CK-MTMLO7NL-XGS2.pdf" alt="ERA Foundation Certificate" width="900">
 
 </div>
 
-| Day | Topic | Notes | Design Challenge | Notebook |
-|-----|-------|-------|------------------| --------------|
-| 1 | Introduction to Python, Data Types, Conditional Statements, Loops, Restaurant Billing System| [Notes](DAY1/notes.md)| [design challange](/DAY1/DESIGNCHALLANGE.PY)|
-| 2 |Funcations,tuples,list,dictinory   |  [Notes](DAY2/Notes.md) | [design challange ](/DAY2/DESIGNCHALLANGE.PY).|
-  | 3 | Anaconda/ Jupyter Notebooks/ Google ColabNumpy and Pandas)  | [Notes](DAY3/Notes.md) | [design challange ](/DAY3/DESIGNCHALLANGE.PY) | [Notebook](DAY3/Note) | [Notebook](/DAY3/day3ofpython.ipunb)| | |
-| 4 |Netflix Data Analysis |[Notes](DAY4/notes.md) |[design challange ](/DAY4/DESIGNCHALLANGE.PY) | [Notebook](DAY4/Netflix.py)
-| 5 | | | |
-| 6 | | | |
-| 7 | | | |
-| 8 | | | |
-| 9 | | | |
-| 10 | | | |
-| 11 | | | |
-| 12 | | | |
-| 13 | | | |
-| 14 | | | |
-| 15 | | | |
-| 16 | | | |
-| 17 | | | |
-| 18 | | | |
-| 19 | | | |
-| 20 | | | |
-| 21 | | | |
-| 22 | | | |
-| 23 | | | |
-| 24 | | | |
-| 25 | | | |
-| 26 | | | |
-| 27 | | | |
-| 28 | | | |
-| 29 | | | |
-| 30 | | | |
+---
