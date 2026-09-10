@@ -14,7 +14,7 @@
 
 <div align="center">
 
-<img src="certificate/ERA_Foundation_Certificate_CK-MTMLO7NL-XGS2.pdf" alt="ERA Foundation Certificate" width="900">
+<img src="certificate/ERA_Foundation_Certificate.png" alt="ERA Foundation Certificate" width="900">
 
 </div>
 
